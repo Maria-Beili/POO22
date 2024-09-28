@@ -1,0 +1,15 @@
+1) Clases Vector y Matrix: 2p 
+2) Métodos adicionales (set3D, create3DRotationZ, matrixMultiply): 2p
+3) Búfer de audio: 1p
+4) Marco, BWFrame, ColorFrame: 3p
+5) Método principal de prueba: 1p
+6) Reporte 1pt.
+7) Nota final
+
+1    2      3      4      5     6      7
+2	2	1	2,5	0,5	1	9
+
+
+El report es correcto.
+Falta comprobar los valores de 0 y 255 en el cambio de brillo.
+Falta mostrar toda la parte de funcionamiento del buffer y frame con los métodos implementados.

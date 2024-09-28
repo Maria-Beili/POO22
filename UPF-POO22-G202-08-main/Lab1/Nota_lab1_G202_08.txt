@@ -1,0 +1,9 @@
+Classes	    Atributos       Constructor      Métodos         Visibilidad  Report	Final
+                           y argumentos	   y argumentos	   	
+ 20%	     20%	     10%	     30%	       10%        10%	   100%			
+2	2	1	2	1	1	9
+
+El report es correcto. Es recomendable comentar los métodos desarrollados por vosotros.  
+La ejecución del programa es correcto, todo y así la velocidad y la ejecución tiene algunos 
+pequeños fallos. Por ejemplo, hay agentes que no se separan nunca y al tener una velocidad 
+lenta, no alcanzan a llegar a sus objetivos. Recomendable comentar los métodos creados dentro del código.

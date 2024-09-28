@@ -1,0 +1,15 @@
+1) Implementar correctamente el código para las clases: 2pt 
+2) Leer y crear regiones/sede/sede correctamente: 2pt 
+3) Vincular correctamente la sede y los head con el diseño restante (según el diagrama de clases): 2pt 
+4) Implementar correctamente los métodos genXQR y signUpX (X = Delegado/Regular): 2pt 
+5) Probando correctamente el código en un método principal: 1pt 
+6) Reporte 1pt.
+7) Nota final
+
+1    2      3      4      5     6      7
+2	2	2	2	0,9	1  10,9
+
+El report es correcto.
+Falta añadir en el programa principal la comprobación de cuando se genera un QR y no se puede crear el miembro por no estar correcto el qr.
+También falta mostrar la acción dada de alta para comprobar su correcto funcionamiento.
+Se añade el punto por la elaboración de la parte opcional.

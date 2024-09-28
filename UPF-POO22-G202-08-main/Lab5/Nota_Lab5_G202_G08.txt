@@ -1,0 +1,12 @@
+Interfaces Nameable and Comparable 2p	
+Class Entity: 3p (should inherit from interfaces, declare abstract method update)	
+Class Agent: 3p (relatively straightforward translation of Java code)	
+Main method for testing: 2p	
+Final
+20%	30%	30%	20%	100%
+2	3	2,8	2	9,8
+
+Clase Comparable y nameable correcto
+Clase Entity correcto.
+Clase Agent en targetReached no se tenía que crear un nuevo Vec2D. Vec2D dv(target); en lugar de target = new Vec2D(target);
+Programa princpal correcto.
